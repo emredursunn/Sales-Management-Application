@@ -1,5 +1,8 @@
 # Mava Company Sales Management Application
 
+I USED REACT NATIVE WITH TYPESCRIPT
+-I USED REDUX IN THIS PROJECT-
+
 This application is developed to manage the sales of Mava Company. It provides functionalities for adding orders, viewing orders, checking stock status, updating stock, and managing customers.
 
 ## Features
