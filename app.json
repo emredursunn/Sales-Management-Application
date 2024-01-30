@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "MAVA",
+    "slug": "MAVA",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/mava_icon_logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/yazilim_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/mava_beyaz.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

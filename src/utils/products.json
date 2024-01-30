@@ -1,0 +1,152 @@
+[
+  {
+      "productId": "1",
+      "productName": "Apple iPhone 14 Pro Max",
+      "productPrice": 1100
+  },
+  {
+      "productId": "2",
+      "productName": "Samsung Galaxy S23 Ultra",
+      "productPrice": 1300
+  },
+  {
+      "productId": "3",
+      "productName": "Sony PlayStation 5",
+      "productPrice": 500
+  },
+  {
+      "productId": "4",
+      "productName": "Microsoft Xbox Series X",
+      "productPrice": 500
+  },
+  {
+      "productId": "5",
+      "productName": "LG C2 OLED 55-inch TV",
+      "productPrice": 1500
+  },
+  {
+      "productId": "6",
+      "productName": "Samsung 55-inch QLED 4K Smart TV",
+      "productPrice": 1200
+  },
+  {
+      "productId": "7",
+      "productName": "Apple MacBook Pro 2023",
+      "productPrice": 1800
+  },
+  {
+      "productId": "8",
+      "productName": "Dell XPS 13 Plus Laptop",
+      "productPrice": 1400
+  },
+  {
+      "productId": "9",
+      "productName": "Bose QuietComfort 45 Headphones",
+      "productPrice": 350
+  },
+  {
+      "productId": "10",
+      "productName": "Dyson V15 Detect Absolute Vacuum",
+      "productPrice": 700
+  },
+  {
+      "productId": "11",
+      "productName": "AirPods Pro",
+      "productPrice": 250
+  },
+  {
+      "productId": "12",
+      "productName": "Apple Watch Series 8",
+      "productPrice": 400
+  },
+  {
+      "productId": "13",
+      "productName": "Samsung Galaxy Z Fold 4",
+      "productPrice": 1800
+  },
+  {
+      "productId": "14",
+      "productName": "Google Pixel 7 Pro",
+      "productPrice": 1000
+  },
+  {
+      "productId": "15",
+      "productName": "Amazon Echo Show 10",
+      "productPrice": 250
+  },
+  {
+      "productId": "16",
+      "productName": "Logitech MX Master 3",
+      "productPrice": 100
+  },
+  {
+      "productId": "17",
+      "productName": "Microsoft Surface Laptop Studio",
+      "productPrice": 2000
+  },
+  {
+      "productId": "18",
+      "productName": "Asus ROG Zephyrus G14",
+      "productPrice": 1500
+  },
+  {
+      "productId": "19",
+      "productName": "Razer Blade 14",
+      "productPrice": 2000
+  },
+  {
+      "productId": "20",
+      "productName": "Logitech G Pro X Superlight Wireless Mouse",
+      "productPrice": 150
+  },
+  {
+      "productId": "21",
+      "productName": "HyperX Cloud Alpha S",
+      "productPrice": 150
+  },
+  {
+      "productId": "22",
+      "productName": "Razer BlackWidow V3 Pro Mechanical Keyboard",
+      "productPrice": 200
+  },
+  {
+      "productId": "23",
+      "productName": "Logitech G502 Hero High Performance Gaming Mouse",
+      "productPrice": 100
+  },
+  {
+      "productId": "24",
+      "productName": "Sennheiser HD 560S Open-Back Headphones",
+      "productPrice": 250
+  },
+  {
+      "productId": "25",
+      "productName": "Anker Soundcore Life P3 Wireless Earbuds",
+      "productPrice": 150
+  },
+  {
+      "productId": "26",
+      "productName": "Apple AirPods Max",
+      "productPrice": 600
+  },
+  {
+  "productId": "27",
+  "productName": "Samsung Galaxy Buds Pro",
+  "productPrice": 250
+  },
+  {
+  "productId": "28",
+  "productName": "Sony WH-1000XM5 Wireless Noise-Canceling Headphones",
+  "productPrice": 400
+  },
+  {
+  "productId": "29",
+  "productName": "Asus ROG Zephyrus G15",
+  "productPrice": 1600
+  },
+  {
+  "productId": "30",
+  "productName": "Razer Blade 15",
+  "productPrice": 2100
+  }
+]

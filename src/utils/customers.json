@@ -1,0 +1,92 @@
+[
+  {
+      "customerId": "1",
+      "fullname": "Ahmet Yılmaz",
+      "age": 30,
+      "phone": "+901234567890"
+  },
+  {
+      "customerId": "2",
+      "fullname": "Ayşe Yılmaz",
+      "age": 28,
+      "phone": "+902345678901"
+  },
+  {
+      "customerId": "3",
+      "fullname": "Fatma Johnson",
+      "age": 25,
+      "phone": "+903456789012"
+  },
+  {
+      "customerId": "4",
+      "fullname": "Mehmet Smith",
+      "age": 35,
+      "phone": "+904567890123"
+  },
+  {
+      "customerId": "5",
+      "fullname": "Zeynep White",
+      "age": 40,
+      "phone": "+905678901234"
+  },
+  {
+      "customerId": "6",
+      "fullname": "Mustafa Brown",
+      "age": 32,
+      "phone": "+906789012345"
+  },
+  {
+      "customerId": "7",
+      "fullname": "Seda Wilson",
+      "age": 27,
+      "phone": "+907890123456"
+  },
+  {
+      "customerId": "8",
+      "fullname": "Emre Davis",
+      "age": 45,
+      "phone": "+908901234567"
+  },
+  {
+      "customerId": "9",
+      "fullname": "Melis Miller",
+      "age": 22,
+      "phone": "+909012345678"
+  },
+  {
+      "customerId": "10",
+      "fullname": "Ahmet Moore",
+      "age": 38,
+      "phone": "+900123456789"
+  },
+  {
+      "customerId": "11",
+      "fullname": "Elif Taylor",
+      "age": 29,
+      "phone": "+901234567890"
+  },
+  {
+      "customerId": "12",
+      "fullname": "Cem Hall",
+      "age": 33,
+      "phone": "+902345678901"
+  },
+  {
+      "customerId": "13",
+      "fullname": "Gamze Harris",
+      "age": 31,
+      "phone": "+903456789012"
+  },
+  {
+      "customerId": "14",
+      "fullname": "Burak Turner",
+      "age": 42,
+      "phone": "+904567890123"
+  },
+  {
+      "customerId": "15",
+      "fullname": "Elif Clark",
+      "age": 26,
+      "phone": "+905678901234"
+  }
+]
