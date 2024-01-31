@@ -29,7 +29,7 @@
     const stockList = useSelector((state: RootState) => state.stock.stockList)
 
     // Check if orderList is not empty
-    const orderId = orderList.length > 0 ? parseInt(orderList[orderList.length - 1].orderId) + 1 : 999;
+    const orderId = orderList.length > 0 ? parseInt(orderList[orderList.length - 1].orderId) + 1 : 1;
 
 
     //customer selectlist için data
